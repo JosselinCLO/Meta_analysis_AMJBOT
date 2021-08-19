@@ -1,0 +1,532 @@
+Species;Species_Phylo;Family;Trait;Categorie;Tetra_type;Synthetic_natural;Value_diplo;Value_tetra;Ratio;Study_ID;Reference
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Bolting_time;Phenological;Neo;Synthetic;25;47;1,88;1;Corneillie_et_al_2019_Plant_phytol
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Growth_rate;Vegetative;Neo;Synthetic;2,4;2,25;0,9375;1;Corneillie_et_al_2019_Plant_phytol
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Leaf_area;Vegetative;Neo;Synthetic;72;92;1,277777778;1;Corneillie_et_al_2019_Plant_phytol
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Epidermis_cell_size;Cellular - size;Neo;Synthetic;4000;6100;1,525;1;Corneillie_et_al_2019_Plant_phytol
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Guard_cell_size;Cellular - size;Neo;Synthetic;90;170;1,888888889;1;Corneillie_et_al_2019_Plant_phytol
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Cell_number_per_leaf;Cellular - number;Neo;Synthetic;2,7;2,3;0,851851852;1;Corneillie_et_al_2019_Plant_phytol
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Stem_length;Vegetative;Neo;Synthetic;43;60;1,395348837;1;Corneillie_et_al_2019_Plant_phytol
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Dry_mass;Vegetative;Neo;Synthetic;55;95;1,727272727;1;Corneillie_et_al_2019_Plant_phytol
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Stem_Diameter;Vegetative;Neo;Synthetic;1,5;1,9;1,266666667;1;Corneillie_et_al_2019_Plant_phytol
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Plant_height;Vegetative;Neo;Natural;30,4;35,9;1,180921053;2;Li_et_al_2012_Planta
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Rosette_leaf_number;Vegetative;Neo;Natural;17,4;19,9;1,143678161;2;Li_et_al_2012_Planta
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Bolting_time;Phenological;Neo;Natural;27,8;36,1;1,298561151;2;Li_et_al_2012_Planta
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Flowering_time;Phenological;Neo;Natural;36,1;47,3;1,310249307;2;Li_et_al_2012_Planta
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Main_stem_thickness;Vegetative;Neo;Natural;1,31;1,58;1,20610687;2;Li_et_al_2012_Planta
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Cauline_branches;Vegetative;Neo;Natural;4,7;4,2;0,893617021;2;Li_et_al_2012_Planta
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Fertile_siliques_main_stem;Fitness;Neo;Natural;35;41;1,171428571;2;Li_et_al_2012_Planta
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Fertile_siliques_total;Fitness;Neo;Natural;173,1;116,7;0,674176776;2;Li_et_al_2012_Planta
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Silique_length;Vegetative;Neo;Natural;14,8;14,7;0,993243243;2;Li_et_al_2012_Planta
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Seeds_per_siliques;Fitness;Neo;Natural;56,6;45;0,795053004;2;Li_et_al_2012_Planta
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Epidermis_cell_size;Cellular - size;Neo;Natural;3000;5250;1,75;2;Li_et_al_2012_Planta
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Pallisade_cell_size;Cellular - size;Neo;Natural;1350;1500;1,111111111;2;Li_et_al_2012_Planta
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Sepal_area;Floral;Neo;Synthetic;1;1,51;1,51;3;Robinson_et_al_2018_Plant_Cell
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Epidermis_cell_area;Cellular - size;Neo;Synthetic;1;1,76;1,76;3;Robinson_et_al_2018_Plant_Cell
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Epidermis_cell_density;Cellular - number;Neo;Synthetic;1350;1091;0,808148148;3;Robinson_et_al_2018_Plant_Cell
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Epidermis_cell_size;Cellular - size;Neo;Synthetic;150;250;1,666666667;4;Del_Pozzo_et_al_2014_Plant_Cell_Environment
+Atriplex confertifolia;Atriplex_patula;Amaranthaceae;Mesophyll_cell_density;Cellular - number;Est;Natural;3;2,4;0,8;5;Warner_Edwards_1989_Plant_physiology
+Atriplex confertifolia;Atriplex_patula;Amaranthaceae;Bundle_sheath_cell_density;Cellular - number;Est;Natural;1;0,5;0,5;5;Warner_Edwards_1989_Plant_physiology
+Camelia sinensis;Camellia_sinensis;Theaceae;Stomata_density;Cellular - number;Neo;Synthetic;136;189;1,389705882;6;Ng'etich_Wachira_Journal_Horticulture_Science_Biotechnology_2002
+Camelia sinensis;Camellia_sinensis;Theaceae;Epidermis_cell_density;Cellular - number;Neo;Synthetic;2849;1579;0,554229554;6;Ng'etich_Wachira_Journal_Horticulture_Science_Biotechnology_2002
+Camelia sinensis;Camellia_sinensis;Theaceae;Gard_Cell_length;Cellular - size;Neo;Synthetic;95;181;1,905263158;6;Ng'etich_Wachira_Journal_Horticulture_Science_Biotechnology_2002
+Camelia sinensis;Camellia_sinensis;Theaceae;Epidermis_cell_size;Cellular - size;Neo;Synthetic;97;184;1,896907216;6;Ng'etich_Wachira_Journal_Horticulture_Science_Biotechnology_2002
+Camelia sinensis;Camellia_sinensis;Theaceae;Leaf_mass;Vegetative;Neo;Synthetic;91;104;1,142857143;6;Ng'etich_Wachira_Journal_Horticulture_Science_Biotechnology_2002
+Citrus limonia;Citrus_limonia;Rutaceae;Leaf_thickness;Vegetative;Neo;Natural;0,242;0,309;1,276859504;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Surface_area;Vegetative;Neo;Natural;40,5;38,3;0,945679012;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Dry_mass;Vegetative;Neo;Natural;8,14;8,8;1,081081081;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Stomata_size;Cellular - size;Neo;Natural;290;490;1,689655172;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Stomata_density;Cellular - number;Neo;Natural;400;270;0,675;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Petiol_diameter;Floral;Neo;Natural;1,47;1,52;1,034013605;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Stem_length;Vegetative;Neo;Natural;2,82;3,21;1,138297872;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Stem_width;Vegetative;Neo;Natural;1,8;2,31;1,283333333;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Root_diamter;Vegetative;Neo;Natural;0,4;0,72;1,8;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Cortex_cell_size;Cellular - size;Neo;Natural;1442;1638;1,13592233;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Xylem_cell_size;Cellular - size;Neo;Natural;399;383;0,959899749;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Medula_cell_size;Cellular - size;Neo;Natural;2474;3419;1,381972514;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Cortex_cell_size;Cellular - size;Neo;Natural;552;1046;1,894927536;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Xylem_cell_size;Cellular - size;Neo;Natural;397;494;1,244332494;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Medula_cell_size;Cellular - size;Neo;Natural;2638;2907;1,10197119;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Epidermis_cell_size;Cellular - size;Neo;Natural;76;104;1,368421053;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Cortex_cell_size;Cellular - size;Neo;Natural;546;1125;2,06043956;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Xylem_cell_size;Cellular - size;Neo;Natural;99;117;1,181818182;7;Allario_et_al_2011_J_exp_Biol
+Citrus limonia;Citrus_limonia;Rutaceae;Epidermis_cell_size;Cellular - size;Neo;Natural;158;357;2,259493671;7;Allario_et_al_2011_J_exp_Biol
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Leaf_length;Vegetative;Est;Natural;2;2,75;1,375;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Leaf_breadth;Vegetative;Est;Natural;0,4;0,6;1,5;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Leaf_thickness;Vegetative;Est;Natural;224;460;2,053571429;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Guard_cell_size;Cellular - size;Est;Natural;21;29;1,380952381;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Stomata_size;Cellular - size;Est;Natural;14;17;1,214285714;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Pollen_fertility;Fitness;Est;Natural;100;98;0,98;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Flower_number_plant;Fitness;Est;Natural;92;45;0,489130435;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Flower_node;Fitness;Est;Natural;9;5;0,555555556;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Length_pedicel;Floral;Est;Natural;0,17;0,3;1,764705882;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Length_bract;Floral;Est;Natural;0,8;1;1,25;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Breadth_bract;Floral;Est;Natural;0,2;0,3;1,5;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Length_Sepal;Floral;Est;Natural;0,4;0,65;1,625;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Breadth_sepal;Floral;Est;Natural;0,15;0,25;1,666666667;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Size_corolla_mouth;Floral;Est;Natural;1,3;2,15;1,653846154;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Corolla_length;Floral;Est;Natural;1,1;1,53;1,390909091;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Stamen_length;Floral;Est;Natural;0,5;0,95;1,9;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Ovary_length;Floral;Est;Natural;0,08;0,13;1,625;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Style_length;Floral;Est;Natural;0,25;0,3;1,2;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Stigma_length;Floral;Est;Natural;0,35;0,4;1,142857143;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Ovule_per_ovary;Fitness;Est;Natural;4;4;1;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Seeds_per_fruits;Fitness;Est;Natural;1,5;1;0,666666667;8;Malik_Tandon_1959_cytologia
+Convolvulus pluricaulis;Convolvulus_floridus;convolvulaceae;Seed_length;Vegetative;Est;Natural;0,18;0,3;1,666666667;8;Malik_Tandon_1959_cytologia
+Isatis indigotica;Isatis_gymnocarpa;Brassicaceae;Pollen stainability;Fitness;Neo;Synthetic;97;96;0,989690722;9;Zhou_et_al_2015_Plos_One
+Isatis indigotica;Isatis_gymnocarpa;Brassicaceae;Photosynthesis_rate;Vegetative;Neo;Synthetic;1,39;2,13;1,532374101;9;Zhou_et_al_2015_Plos_One
+Lolium multiflorum;Lolium_multiflorum;Poaceae;Leaf_length;Vegetative;Neo;Synthetic;23;25;1,086956522;10;Sugiyama_2005_Annals_Botany
+Lolium multiflorum;Lolium_multiflorum;Poaceae;Epidermis_cell_size;Cellular - size;Neo;Synthetic;483;677;1,401656315;10;Sugiyama_2005_Annals_Botany
+Lolium multiflorum;Lolium_multiflorum;Poaceae;Epidermis_cell_size;Cellular - size;Neo;Synthetic;21;26;1,238095238;10;Sugiyama_2005_Annals_Botany
+Lolium perenne;Lolium_perenne;Poaceae;Leaf_length;Vegetative;Neo;Synthetic;17;26;1,529411765;10;Sugiyama_2005_Annals_Botany
+Lolium perenne;Lolium_perenne;Poaceae;Epidermis_cell_size;Cellular - size;Neo;Synthetic;504;701;1,390873016;10;Sugiyama_2005_Annals_Botany
+Lolium perenne;Lolium_perenne;Poaceae;Epidermis_cell_size;Cellular - size;Neo;Synthetic;18;25;1,388888889;10;Sugiyama_2005_Annals_Botany
+Citrus sinensis;Citrus_sinensis;Rutaceae;Dry_mass_total;Vegetative;Est;Natural;9,5;10;1,052631579;11;Ruiz_et_al_Journal_Plant_physiology
+Citrus sinensis;Citrus_sinensis;Rutaceae;Dry_mass_leaves;Vegetative;Est;Natural;2;2,1;1,05;11;Ruiz_et_al_Journal_Plant_physiology
+Citrus sinensis;Citrus_sinensis;Rutaceae;Dry_mass_stems;Vegetative;Est;Natural;4,9;4,7;0,959183673;11;Ruiz_et_al_Journal_Plant_physiology
+Citrus sinensis;Citrus_sinensis;Rutaceae;Dry_mass_roots;Vegetative;Est;Natural;2,5;2,75;1,1;11;Ruiz_et_al_Journal_Plant_physiology
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Stem_length;Vegetative;Est;Natural;14,2;14,8;1,042253521;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Stem_number;Vegetative;Est;Natural;3,12;2,86;0,916666667;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Stem_flowering;Fitness;Est;Natural;0,759;0,738;0,972332016;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Flowers_Number;Fitness;Est;Natural;7,72;8,75;1,133419689;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Stem_internode_length;Vegetative;Est;Natural;10,1;12,1;1,198019802;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Leaf_length;Vegetative;Est;Natural;25,1;31,9;1,270916335;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Leaf_width;Vegetative;Est;Natural;3,37;3,08;0,913946588;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Leaf_thickness;Vegetative;Est;Natural;0,407;0,365;0,896805897;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Leaf_Trichome_density;Vegetative;Est;Natural;5,87;2,98;0,507666099;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Guard_cell_size;Cellular - size;Est;Natural;36,7;42,7;1,163487738;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Stomata_density;Cellular - number;Est;Natural;112,7;82,1;0,728482697;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Calyx_length;Floral;Est;Natural;8,43;9,3;1,103202847;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Calyx_trichome_density;Floral;Est;Natural;23,6;22,2;0,940677966;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Corolla_length;Floral;Est;Natural;14,1;16;1,134751773;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Corolla_width;Floral;Est;Natural;1,77;1,85;1,04519774;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Corolla_lobe_length;Floral;Est;Natural;8,26;9,71;1,175544794;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Corolla_lobe_width;Floral;Est;Natural;5,31;6,57;1,237288136;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Anther_length;Floral;Est;Natural;2,2;2,52;1,145454545;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Pollen_diameter;Cellular - size;Est;Natural;39,9;44;1,102756892;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Ovary_length;Floral;Est;Natural;1,51;1,79;1,185430464;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Ovule_number;Fitness;Est;Natural;3,15;3,61;1,146031746;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Style_length;Floral;Est;Natural;9;10,8;1,2;12;Chansler_et_al_2016
+Phlox amabilis;Phlox_hoodii;Polemoniaceae;Stigma_length;Floral;Est;Natural;0,83;0,98;1,180722892;12;Chansler_et_al_2016
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Seed_number;Fitness;Neo;Synthetic;12000;8000;0,666666667;13;Chao_et_al_2013
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Seed_number;Fitness;Neo;Synthetic;6500;4000;0,615384615;13;Chao_et_al_2013
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Seed_number;Fitness;Neo;Synthetic;6000;4000;0,666666667;13;Chao_et_al_2013
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Plant_height;Vegetative;Neo;Natural;11;8,2;0,745454545;14;Wei_et_ao_2019_Journal_Biotechnology
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Leaf_width;Vegetative;Neo;Natural;0,9;1,3;1,444444444;14;Wei_et_ao_2019_Journal_Biotechnology
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Leaf_thickness;Vegetative;Neo;Natural;100;190;1,9;14;Wei_et_ao_2019_Journal_Biotechnology
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Stomata_density;Cellular - number;Neo;Natural;600;300;0,5;14;Wei_et_ao_2019_Journal_Biotechnology
+Salix Viminalis;Salix_viminalis;Salicaceae;Shoot_height;Vegetative;Neo;Synthetic;83,1;63,925;0,769253911;15;Dudix_et_al_2016_Plant_physiologie
+Salix Viminalis;Salix_viminalis;Salicaceae;Stem_Diameter;Vegetative;Neo;Synthetic;6,59;7,175;1,088770865;15;Dudix_et_al_2016_Plant_physiologie
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Stomata_length;Cellular - size;Neo;Synthetic;41,9;47,8;1,140811456;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Stomata_length;Cellular - size;Neo;Synthetic;42,3;48;1,134751773;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Stomata_width;Cellular - size;Neo;Synthetic;40,1;45,6;1,137157107;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Stomata_width;Cellular - size;Neo;Synthetic;40,1;46;1,14713217;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Stomata_density;Cellular - number;Neo;Synthetic;11,2;5,3;0,473214286;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Stomata_density;Cellular - number;Neo;Synthetic;10,7;5,3;0,495327103;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Chloroplast_density;Cellular - number;Neo;Synthetic;16,3;31,7;1,944785276;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Chloroplast_density;Cellular - number;Neo;Synthetic;16,7;32,3;1,934131737;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Phylloclades_length;Vegetative;Neo;Synthetic;16,1;26,3;1,633540373;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Phylloclades_length;Vegetative;Neo;Synthetic;16,4;26,3;1,603658537;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Phylloclades_width;Vegetative;Neo;Synthetic;0,2;0,4;2;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Phylloclades_width;Vegetative;Neo;Synthetic;0,2;0,4;2;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Internode_length;Vegetative;Neo;Synthetic;27,6;22,2;0,804347826;16;Chen_et_al_2020_Scientia_Horticulturae
+Asparagus officinalis;Asparagus_cochinchinensis;Asparagaceae;Internode_length;Vegetative;Neo;Synthetic;28;21,3;0,760714286;16;Chen_et_al_2020_Scientia_Horticulturae
+Brassica rapa;Brassica_rapa;Brassicaceae;Granna_height;Cellular - size;Neo;Synthetic;0,22;0,35;1,590909091;17;Zhang_et_al_2020_Plant_Cell_physiology
+Brassica rapa;Brassica_rapa;Brassicaceae;Leaf_weight;Vegetative;Neo;Synthetic;25;27,5;1,1;17;Zhang_et_al_2020_Plant_Cell_physiology
+Brassica rapa;Brassica_rapa;Brassicaceae;Leaf_weight;Vegetative;Neo;Synthetic;22,5;25;1,111111111;17;Zhang_et_al_2020_Plant_Cell_physiology
+Brassica rapa;Brassica_rapa;Brassicaceae;Leaf_weight;Vegetative;Neo;Synthetic;20;23;1,15;17;Zhang_et_al_2020_Plant_Cell_physiology
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Stomata_length;Cellular - size;Neo;Synthetic;24;32,1;1,3375;18;Maherali_et_al_2019_New_Phytologist
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Stomata_length;Cellular - size;Est;Natural;24;27,8;1,158333333;18;Maherali_et_al_2019_New_Phytologist
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Stomata_density;Cellular - number;Neo;Synthetic;64,3;43,1;0,67029549;18;Maherali_et_al_2019_New_Phytologist
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Stomatal_density;Cellular - number;Est;Natural;64,3;49,1;0,763608087;18;Maherali_et_al_2019_New_Phytologist
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Leaf_size;Vegetative;Neo;Synthetic;48,3;57,4;1,188405797;18;Maherali_et_al_2019_New_Phytologist
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Leaf_size;Vegetative;Est;Natural;48,3;53,4;1,105590062;18;Maherali_et_al_2019_New_Phytologist
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Stem_Diameter;Vegetative;Neo;Synthetic;3,4;3,8;1,117647059;18;Maherali_et_al_2019_New_Phytologist
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Stem_Diameter;Vegetative;Est;Natural;3,4;3,8;1,117647059;18;Maherali_et_al_2019_New_Phytologist
+Citrus reticulata;Citrus_reticulata;Rutaceae;Plant_height;Vegetative;Neo;Synthetic;120;80;0,666666667;19;Tan_et_al_2017_Metabolomics
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Plant_height;Vegetative;Neo;Synthetic;100;70;0,7;19;Tan_et_al_2017_Metabolomics
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Plant_height;Vegetative;Neo;Synthetic;80;60;0,75;19;Tan_et_al_2017_Metabolomics
+Citrus reticulata;Citrus_reticulata;Rutaceae;Stem_Diameter;Vegetative;Neo;Synthetic;1,05;1;0,952380952;19;Tan_et_al_2017_Metabolomics
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Stem_Diameter;Vegetative;Neo;Synthetic;0,7;0,75;1,071428571;19;Tan_et_al_2017_Metabolomics
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Stem_Diameter;Vegetative;Neo;Synthetic;0,8;0,7;0,875;19;Tan_et_al_2017_Metabolomics
+Citrus reticulata;Citrus_reticulata;Rutaceae;Leaf_area;Vegetative;Neo;Synthetic;14,5;22;1,517241379;19;Tan_et_al_2017_Metabolomics
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Leaf_area;Vegetative;Neo;Synthetic;7,5;8,5;1,133333333;19;Tan_et_al_2017_Metabolomics
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Leaf_area;Vegetative;Neo;Synthetic;5;7;1,4;19;Tan_et_al_2017_Metabolomics
+Citrus reticulata;Citrus_reticulata;Rutaceae;Leaf_thickness;Vegetative;Neo;Synthetic;0,3;0,4;1,333333333;19;Tan_et_al_2017_Metabolomics
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Leaf_thickness;Vegetative;Neo;Synthetic;0,25;0,33;1,32;19;Tan_et_al_2017_Metabolomics
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Leaf_thickness;Vegetative;Neo;Synthetic;0,3;0,375;1,25;19;Tan_et_al_2017_Metabolomics
+Citrus reticulata;Citrus_reticulata;Rutaceae;Stomata_size;Cellular - size;Neo;Synthetic;425;700;1,647058824;19;Tan_et_al_2017_Metabolomics
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Stomata_size;Cellular - size;Neo;Synthetic;425;775;1,823529412;19;Tan_et_al_2017_Metabolomics
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Stomata_size;Cellular - size;Neo;Synthetic;400;750;1,875;19;Tan_et_al_2017_Metabolomics
+Citrus reticulata;Citrus_reticulata;Rutaceae;Stomata_density;Cellular - number;Neo;Synthetic;325;180;0,553846154;19;Tan_et_al_2017_Metabolomics
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Stomata_density;Cellular - number;Neo;Synthetic;500;300;0,6;19;Tan_et_al_2017_Metabolomics
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Stomata_density;Cellular - number;Neo;Synthetic;475;300;0,631578947;19;Tan_et_al_2017_Metabolomics
+Clematis heracleifolia;Clematis_heracleifolia;Ranunculaceae;Stomata_size;Cellular - size;Neo;Synthetic;23,5;32,8;1,395744681;20;Wu_et_al_2013_Caryologia
+Clematis heracleifolia;Clematis_heracleifolia;Ranunculaceae;Stomata_width;Cellular - size;Neo;Synthetic;38,8;46,6;1,201030928;20;Wu_et_al_2013_Caryologia
+Fragaria vesca sub. Bracteata;Fragaria_vesca;Rosaceae;Stomata_length;Cellular - size;Neo;Synthetic;13,46373804;17,28778184;1,284025417;21;Wei_et_al_2019_New_Phytologist
+Fragaria vesca sub. Vesca;Fragaria_vesca;Rosaceae;Stomata_length;Cellular - size;Neo;Synthetic;13,46373804;18,17414537;1,349858808;21;Wei_et_al_2019_New_Phytologist
+Fragaria vesca sub. Bracteata;Fragaria_vesca;Rosaceae;Stomata_density;Cellular - number;Neo;Synthetic;134,2897797;99,48431564;0,740818221;21;Wei_et_al_2019_New_Phytologist
+Fragaria vesca sub. Vesca;Fragaria_vesca;Rosaceae;Stomata_density;Cellular - number;Neo;Synthetic;200,33681;115,5842845;0,57694981;21;Wei_et_al_2019_New_Phytologist
+Fragaria vesca sub. Bracteata;Fragaria_vesca;Rosaceae;SLA;Vegetative;Neo;Synthetic;18,17414537;16,44464677;0,904837418;21;Wei_et_al_2019_New_Phytologist
+Fragaria vesca sub. Vesca;Fragaria_vesca;Rosaceae;SLA;Vegetative;Neo;Synthetic;17,28778184;14,87973172;0,860707976;21;Wei_et_al_2019_New_Phytologist
+Fragaria vesca sub. Bracteata;Fragaria_vesca;Rosaceae;Trichome density;Vegetative;Neo;Synthetic;6;5,9;0,983333333;21;Wei_et_al_2019_New_Phytologist
+Fragaria vesca sub. Vesca;Fragaria_vesca;Rosaceae;Trichome density;Vegetative;Neo;Synthetic;9;9,2;1,022222222;21;Wei_et_al_2019_New_Phytologist
+Fragaria vesca sub. Bracteata;Fragaria_vesca;Rosaceae;Growth_rate;Vegetative;Neo;Synthetic;1,14;1,14;1;21;Wei_et_al_2019_New_Phytologist
+Fragaria vesca sub. Vesca;Fragaria_vesca;Rosaceae;Growth_rate;Vegetative;Neo;Synthetic;1,16;1,16;1;21;Wei_et_al_2019_New_Phytologist
+Fragaria vesca sub. Bracteata;Fragaria_vesca;Rosaceae;Plantlet_number;Fitness;Neo;Synthetic;18;9;0,5;21;Wei_et_al_2019_New_Phytologist
+Fragaria vesca sub. Vesca;Fragaria_vesca;Rosaceae;Plantlet_number;Fitness;Neo;Synthetic;21;13;0,619047619;21;Wei_et_al_2019_New_Phytologist
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Plant_height;Vegetative;Neo;Synthetic;123,9;124,4;1,004035513;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Petiole length;Floral;Neo;Synthetic;23,5;21,58;0,918297872;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Leaf_length;Vegetative;Neo;Synthetic;14,8;16,1;1,087837838;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Leaf_width;Vegetative;Neo;Synthetic;16,3;19,8;1,214723926;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Leaf_thickness;Vegetative;Neo;Synthetic;259,44;332,4;1,281221092;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Stomata_length;Cellular - size;Neo;Synthetic;25,8;43,2;1,674418605;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Stomata_density;Cellular - number;Neo;Synthetic;110,5;53,61;0,485158371;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Specific_leaf_weight;Vegetative;Neo;Synthetic;6,3;6;0,952380952;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Flower_size;Floral;Neo;Synthetic;7,02;9,31;1,326210826;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Flower_size;Floral;Neo;Synthetic;8,71;9,31;1,068886338;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Flower_number_plant;Fitness;Neo;Synthetic;237,6;191,3;0,80513468;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Flower_number_female;Fitness;Neo;Synthetic;11,9;8,1;0,680672269;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Pollen_diameter;Floral;Neo;Synthetic;85,3;110,43;1,294607268;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Fruits_number;Fitness;Neo;Synthetic;11,2;2,03;0,18125;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Fruits_diameter;Vegetative;Neo;Synthetic;29,8;34,6;1,161073826;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Seeds_number;Fitness;Neo;Synthetic;2,9;1,5;0,517241379;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Seed_length;Vegetative;Neo;Synthetic;19;19,4;1,021052632;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Seed_width;Vegetative;Neo;Synthetic;11,3;12;1,061946903;22;Niu_et_al_2016_Caryologia
+Jatropha curcas;Jatropha_curcas;Euphorbiaceae;Seed_weight;Vegetative;Neo;Synthetic;0,8;0,8;1;22;Niu_et_al_2016_Caryologia
+Nigella sativa;Nigella_sativa;Ranunculaceae;Plant_height;Vegetative;Neo;Synthetic;43,1;67,7;1,570765661;23;Dixit_et_al_2015_Journal_horticultural_Science_Biotechnology
+Nigella sativa;Nigella_sativa;Ranunculaceae;Number_branches;Vegetative;Neo;Synthetic;9,8;16,9;1,724489796;23;Dixit_et_al_2015_Journal_horticultural_Science_Biotechnology
+Nigella sativa;Nigella_sativa;Ranunculaceae;Flowering_time;Phenological;Neo;Synthetic;97;117,7;1,213402062;23;Dixit_et_al_2015_Journal_horticultural_Science_Biotechnology
+Nigella sativa;Nigella_sativa;Ranunculaceae;Number_capsules;Fitness;Neo;Synthetic;21,7;32,3;1,488479263;23;Dixit_et_al_2015_Journal_horticultural_Science_Biotechnology
+Nigella sativa;Nigella_sativa;Ranunculaceae;Stomata_size;Cellular - size;Neo;Synthetic;34,33;57,7;1,680745703;23;Dixit_et_al_2015_Journal_horticultural_Science_Biotechnology
+Nigella sativa;Nigella_sativa;Ranunculaceae;Seed_weight;Vegetative;Neo;Synthetic;0,29;0,37;1,275862069;23;Dixit_et_al_2015_Journal_horticultural_Science_Biotechnology
+Nigella sativa;Nigella_sativa;Ranunculaceae;Fresh_weight;Vegetative;Neo;Synthetic;18;26,24;1,457777778;23;Dixit_et_al_2015_Journal_horticultural_Science_Biotechnology
+Nigella sativa;Nigella_sativa;Ranunculaceae;Dry_weight;Vegetative;Neo;Synthetic;1,86;2,84;1,52688172;23;Dixit_et_al_2015_Journal_horticultural_Science_Biotechnology
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Height;Vegetative;Neo;Synthetic;25,74;29,76;1,156177156;24;Bose_Choudhury_1962_Caryologia
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Height;Vegetative;Neo;Synthetic;25,48;30,1;1,181318681;24;Bose_Choudhury_1962_Caryologia
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Height;Vegetative;Neo;Synthetic;25,64;28,07;1,094773791;24;Bose_Choudhury_1962_Caryologia
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Number_branches;Vegetative;Neo;Synthetic;21,8;19,6;0,899082569;24;Bose_Choudhury_1962_Caryologia
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Number_branches;Vegetative;Neo;Synthetic;22,6;25,4;1,123893805;24;Bose_Choudhury_1962_Caryologia
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Number_branches;Vegetative;Neo;Synthetic;23,4;24,2;1,034188034;24;Bose_Choudhury_1962_Caryologia
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Number_leaf;Vegetative;Neo;Synthetic;3511;6474;1,843919111;24;Bose_Choudhury_1962_Caryologia
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Number_leaf;Vegetative;Neo;Synthetic;3569;6233;1,746427571;24;Bose_Choudhury_1962_Caryologia
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Number_leaf;Vegetative;Neo;Synthetic;3801;6398;1,683241252;24;Bose_Choudhury_1962_Caryologia
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Number_inflorescence;Fitness;Neo;Synthetic;59,9;41,1;0,686143573;24;Bose_Choudhury_1962_Caryologia
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Number_inflorescence;Fitness;Neo;Synthetic;52;43;0,826923077;24;Bose_Choudhury_1962_Caryologia
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Number_inflorescence;Fitness;Neo;Synthetic;55;46;0,836363636;24;Bose_Choudhury_1962_Caryologia
+Ocimum kilimandscharicum;Ocimum_basilicum;Lamiaceae;Pollen_viability;Fitness;Neo;Synthetic;76,22;49,82;0,653634217;24;Bose_Choudhury_1962_Caryologia
+Plantago media;Plantago_media;Plantaginaceae;Seed_number;Fitness;Neo;Synthetic;1;0,75;0,75;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;Seed_number;Fitness;Est;Natural;1;0,8;0,8;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;Viable_pollen;Fitness;Neo;Synthetic;1;0,99;0,99;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;Viable_pollen;Fitness;Est;Natural;1;1,01;1,01;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;Seed_weight;Vegetative;Neo;Synthetic;1;1,38;1,38;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;Seed_weight;Vegetative;Est;Natural;1;1,15;1,15;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;Guard_cell_size;Cellular - size;Neo;Synthetic;1;1,4;1,4;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;Guard_cell_size;Cellular - size;Est;Natural;1;1,3;1,3;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;Pollen_diameter;Cellular - size;Neo;Synthetic;1;1,3;1,3;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;Pollen_diameter;Cellular - size;Est;Natural;1;1,15;1,15;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;Pollen_volume;Cellular - size;Neo;Synthetic;1;2;2;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;Pollen_volume;Cellular - size;Est;Natural;1;1,5;1,5;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;ovules_capsule;Fitness;Neo;Synthetic;1;1,05;1,05;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;ovules_capsule;Fitness;Est;Natural;1;1,6;1,6;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;scape_lenght;Vegetative;Neo;Synthetic;1;0,99;0,99;25;Van_Dijk_VanDelden_1990_Heredity
+Plantago media;Plantago_media;Plantaginaceae;scape_lenght;Vegetative;Est;Natural;1;1,4;1,4;25;Van_Dijk_VanDelden_1990_Heredity
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Leaf_width;Vegetative;Neo;Synthetic;19,87;26,73;1,345244087;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Leaf_length;Vegetative;Neo;Synthetic;40,27;47,46;1,178544822;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Stem_length;Vegetative;Neo;Synthetic;27,67;27,56;0,996024575;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Stem_Diameter;Vegetative;Neo;Synthetic;3,48;4,28;1,229885057;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Flower_diameter;Floral;Neo;Synthetic;26,45;34,22;1,293761815;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Stomata_length;Cellular - size;Neo;Synthetic;10;10,29;1,029;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Stomata_width;Cellular - size;Neo;Synthetic;3,51;4,18;1,190883191;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Guard_cell_length;Cellular - size;Neo;Synthetic;19,7;21,8;1,106598985;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Guard_cell_width;Cellular - size;Neo;Synthetic;17,5;19,2;1,097142857;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Stomata_density;Cellular - number;Neo;Synthetic;18,33;15,03;0,819967267;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Leaf_thickness;Vegetative;Neo;Synthetic;77,76;144,9;1,863425926;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Root_diamter;Vegetative;Neo;Synthetic;368,6;467,33;1,267851329;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Epidermis_cell_size;Cellular - size;Neo;Synthetic;17,94;18,91;1,054069119;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Parenchyma_thickness;Cellular - size;Neo;Synthetic;101,42;118,72;1,170577795;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Epidermis_cell_size;Cellular - size;Neo;Synthetic;18,03;17,59;0,975596229;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Plumbago auriculata;Plumbago_auriculata;Plumbaginaceae;Collenchyma_thickness;Cellular - size;Neo;Synthetic;61,04;72,28;1,184141547;26;Jiang_et_al_2019_Plant_cell_and_organ_culture
+Raphanus sativus;Raphanus_sativus;Brassicaceae;Flower_diameter;Floral;Neo;Synthetic;2,6;3,21;1,234615385;27;Cheng_et_al_2018_MolecularBiologyReport
+Raphanus sativus;Raphanus_sativus;Brassicaceae;Pollen_diameter;Cellular - size;Neo;Synthetic;28,06;36,25;1,291874555;27;Cheng_et_al_2018_MolecularBiologyReport
+Raphanus sativus;Raphanus_sativus;Brassicaceae;Stomata_length;Cellular - size;Neo;Synthetic;19,83;28,77;1,450832073;27;Cheng_et_al_2018_MolecularBiologyReport
+Raphanus sativus;Raphanus_sativus;Brassicaceae;Stomata_width;Cellular - size;Neo;Synthetic;15,55;20,69;1,330546624;27;Cheng_et_al_2018_MolecularBiologyReport
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Length_width_ratio;Vegetative;Neo;Synthetic;3,02;2,05;0,678807947;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Leaf_thickness;Vegetative;Neo;Synthetic;0,22;0,27;1,227272727;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Length_width_ratio;Vegetative;Neo;Synthetic;3;1,95;0,65;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Leaf_thickness;Vegetative;Neo;Synthetic;0,2;0,26;1,3;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Length_width_ratio;Vegetative;Neo;Synthetic;3,15;2,25;0,714285714;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Leaf_thickness;Vegetative;Neo;Synthetic;0,23;0,29;1,260869565;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Spathum_length/width;Floral;Neo;Synthetic;2,02;1,78;0,881188119;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Spathum_thickness;Floral;Neo;Synthetic;0,27;0,33;1,222222222;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Spadex_length/width;Floral;Neo;Synthetic;3,63;2,65;0,730027548;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Flower_stalk_length;Floral;Neo;Synthetic;413,6;348,1;0,841634429;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Flower_stalk_diameter;Floral;Neo;Synthetic;3,4;4,24;1,247058824;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Spathum_length/width;Floral;Neo;Synthetic;1,65;1,42;0,860606061;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Spathum_thickness;Floral;Neo;Synthetic;0,18;0,29;1,611111111;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Spadex_length/width;Floral;Neo;Synthetic;3,1;2,5;0,806451613;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Flower_stalk_length;Floral;Neo;Synthetic;398,4;417,6;1,048192771;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Flower_stalk_diameter;Floral;Neo;Synthetic;3,28;4,79;1,460365854;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Spathum_length/width;Floral;Neo;Synthetic;2,1;1,77;0,842857143;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Spathum_thickness;Floral;Neo;Synthetic;0,27;0,2;0,740740741;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Spadex_length/width;Floral;Neo;Synthetic;3,84;3,83;0,997395833;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Flower_stalk_length;Floral;Neo;Synthetic;344,3;348,4;1,01190822;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Flower_stalk_diameter;Floral;Neo;Synthetic;4,55;4,48;0,984615385;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Shoots_number;Vegetative;Neo;Synthetic;7,4;5,6;0,756756757;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Leaves_number;Vegetative;Neo;Synthetic;54,4;34,3;0,630514706;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Dry_weight;Vegetative;Neo;Synthetic;11,65;8,36;0,717596567;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Shoots_number;Vegetative;Neo;Synthetic;9,5;2,1;0,221052632;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Leaves_number;Vegetative;Neo;Synthetic;59,8;14;0,234113712;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Dry_weight;Vegetative;Neo;Synthetic;37,79;28,07;0,742789098;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Shoots_number;Vegetative;Neo;Synthetic;7,1;5,8;0,816901408;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Leaves_number;Vegetative;Neo;Synthetic;42,6;30,1;0,70657277;28;VanLaere_et_al_2010
+Spathiphyllum wallisii;Spathiphyllum_wallisii;Araceae;Dry_weight;Vegetative;Neo;Synthetic;43,32;39,7;0,916435826;28;VanLaere_et_al_2010
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Plant_height;Vegetative;Neo;Synthetic;2,79;2,4;0,860215054;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Growth_shoot_length;Vegetative;Neo;Synthetic;48,57;34,03;0,700638254;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Leaf_number;Vegetative;Neo;Synthetic;10,3;10;0,970873786;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Leaf_length;Vegetative;Neo;Synthetic;6,39;7,52;1,176838811;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Leaf_width;Vegetative;Neo;Synthetic;2,12;3,24;1,528301887;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Stomata_length;Cellular - size;Neo;Synthetic;24,42;35,61;1,458230958;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Stomata_width;Cellular - size;Neo;Synthetic;20,23;26,62;1,315867523;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Stomata_density;Cellular - number;Neo;Synthetic;207,27;137,1;0,661456072;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Fruit weight;Vegetative;Neo;Synthetic;13,93;19,58;1,405599426;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Fruit yield;Vegetative;Neo;Synthetic;3148,2;3563,56;1,131935709;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Fruit_size;Vegetative;Neo;Synthetic;3,04;3,76;1,236842105;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Fruit_size;Vegetative;Neo;Synthetic;3,09;4;1,294498382;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Flower_size;Floral;Neo;Synthetic;2,75;3,54;1,287272727;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Flower_bud_diameter;Floral;Neo;Synthetic;1,72;2,05;1,191860465;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Petal_length;Floral;Neo;Synthetic;0,9;1,12;1,244444444;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Sepal_length;Floral;Neo;Synthetic;1,23;1,52;1,235772358;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Sepal_width;Floral;Neo;Synthetic;0,92;1,46;1,586956522;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Anther_length;Floral;Neo;Synthetic;0,36;0,42;1,166666667;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Anther_width;Floral;Neo;Synthetic;0,22;0,36;1,636363636;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Pollen_diameter;Cellular - size;Neo;Synthetic;22,23;31,61;1,421952317;29;Wang_et_al_2019_Scientia_horticulturae
+Ziziphus jujuba;Ziziphus_glabrata;Rhamnaceae;Fruit_number;Fitness;Neo;Synthetic;226,0014358;182;0,805304619;29;Wang_et_al_2019_Scientia_horticulturae
+Solanum commersonii;Solanum_bulbocastanum;Solanaceae;Lamina_thickness;Cellular - size;Neo;Synthetic;255,6;254,6333333;0,996218049;30;Aversano_et_al_2013_Journal_Experimental_Botany
+Solanum bulbocastanum;Solanum_bulbocastanum;Solanaceae;Lamina_thickness;Cellular - size;Neo;Synthetic;243;230,275;0,947633745;30;Aversano_et_al_2013_Journal_Experimental_Botany
+Solanum bulbocastanum;Solanum_bulbocastanum;Solanaceae;Lamina_area;Cellular - size;Neo;Synthetic;27,84;28,0025;1,005836925;30;Aversano_et_al_2013_Journal_Experimental_Botany
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Stomata_density;Cellular - number;Neo;Synthetic;182,13;109,765;0,602673914;31;Aversano_et_al_2013_Journal_Experimental_Botany
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Stomata_length;Cellular - size;Neo;Synthetic;7,79;13,935;1,788831836;31;Monda_et_al_2016_Plant_physiology
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicaceae;Cell_guard_length;Cellular - size;Neo;Synthetic;7,84;9,725;1,240433673;31;Monda_et_al_2016_Plant_physiology
+Atriplex canescens;Atriplex_patula;Amaranthaceae;Leaf_area;Vegetative;Est;Natural;0,241;0,411;1,705394191;32;Senock_et_al_1991_Journal_Arid_environment
+Atriplex canescens;Atriplex_patula;Amaranthaceae;Leaf_area;Vegetative;Est;Natural;0,285;0,443;1,554385965;32;Senock_et_al_1991_Journal_Arid_environment
+Solidago gigantea;Solidago_canadensis;Asteraceae;SLA;Vegetative;Est;Natural;185;180;0,972972973;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;SLA;Vegetative;Est;Natural;180;195;1,083333333;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Leaf_area;Vegetative;Est;Natural;16;15,5;0,96875;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Leaf_area;Vegetative;Est;Natural;17,5;17;0,971428571;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Stomata_density;Cellular - number;Est;Natural;25,7;35,4;1,377431907;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Stomata_density;Cellular - number;Est;Natural;26,1;25;0,957854406;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Stomata_density;Cellular - number;Est;Natural;158,2;134,8;0,852085967;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Stomata_density;Cellular - number;Est;Natural;126,3;117,6;0,93111639;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Guard_cell_length;Cellular - size;Est;Natural;33,3;34,7;1,042042042;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Guard_cell_length;Cellular - size;Est;Natural;36;35,8;0,994444444;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Guard_cell_length;Cellular - size;Est;Natural;35,1;35,8;1,01994302;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Guard_cell_length;Cellular - size;Est;Natural;37,1;38;1,02425876;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Height;Vegetative;Est;Natural;85;92;1,082352941;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Height;Vegetative;Est;Natural;82;90;1,097560976;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Infructescence mass;Vegetative;Est;Natural;4;4,3;1,075;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Infructescence mass;Vegetative;Est;Natural;3,2;4,4;1,375;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Rhizome_mass;Vegetative;Est;Natural;3,5;4,5;1,285714286;33;Hull-sanders_et_al_2019_AmJBOT
+Solidago gigantea;Solidago_canadensis;Asteraceae;Rhizome_mass;Vegetative;Est;Natural;5,2;6;1,153846154;33;Hull-sanders_et_al_2019_AmJBOT
+Medicago sativa;Medicago_sativa;Fabaceae;Harvesting-day;Phenological;Neo;Synthetic;35;26;0,742857143;34;Pfeiffer_et_al_1980_crop_science
+Medicago sativa;Medicago_sativa;Fabaceae;Dry_weight;Vegetative;Neo;Synthetic;1,04;0,91;0,875;34;Pfeiffer_et_al_1980_crop_science
+Medicago sativa;Medicago_sativa;Fabaceae;Dry_weight;Vegetative;Neo;Synthetic;1,2;1,02;0,85;34;Pfeiffer_et_al_1980_crop_science
+Medicago sativa;Medicago_sativa;Fabaceae;Dry_weight;Vegetative;Neo;Synthetic;2,27;2,59;1,140969163;34;Pfeiffer_et_al_1980_crop_science
+Medicago sativa;Medicago_sativa;Fabaceae;Nodule_number;Vegetative;Neo;Synthetic;122;139;1,139344262;34;Pfeiffer_et_al_1980_crop_science
+Medicago sativa;Medicago_sativa;Fabaceae;Dry_weight;Vegetative;Neo;Synthetic;50,8;43,8;0,862204724;34;Pfeiffer_et_al_1980_crop_science
+Jasione maritima;Jasione_crispa;Campanulaceae;Fruit_production;Fitness;Neo;Synthetic;0,78;0,5;0,641025641;35;Siopa_et_al_2020_AmJBot
+Jasione maritima;Jasione_crispa;Campanulaceae;Fruits_number;Fitness;Neo;Synthetic;9,1;2,9;0,318681319;35;Siopa_et_al_2020_AmJBot
+Jasione maritima;Jasione_crispa;Campanulaceae;Germination_success;Fitness;Neo;Synthetic;0,85;0,67;0,788235294;35;Siopa_et_al_2020_AmJBot
+Jasione maritima;Jasione_crispa;Campanulaceae;Total_biomass;Vegetative;Neo;Synthetic;520;400;0,769230769;35;Siopa_et_al_2020_AmJBot
+Jasione maritima;Jasione_crispa;Campanulaceae;Leaves_number;Vegetative;Neo;Synthetic;230;100;0,434782609;35;Siopa_et_al_2020_AmJBot
+Jasione maritima;Jasione_crispa;Campanulaceae;Height;Vegetative;Neo;Synthetic;5,9;4,7;0,796610169;35;Siopa_et_al_2020_AmJBot
+Jasione maritima;Jasione_crispa;Campanulaceae;Reproductive_structure;Fitness;Neo;Synthetic;7;2,3;0,328571429;35;Siopa_et_al_2020_AmJBot
+Jasione maritima;Jasione_crispa;Campanulaceae;Flowering_probability;Fitness;Neo;Synthetic;0,85;0,5;0,588235294;35;Siopa_et_al_2020_AmJBot
+Manihot esculenta;Manihot_esculenta;Euphorbiaceae;Shoot_height;Vegetative;Neo;Synthetic;10,43;6,83;0,654841802;36;Li_et_al_2014_PlosOne
+Manihot esculenta;Manihot_esculenta;Euphorbiaceae;Root_length;Vegetative;Neo;Synthetic;10,43;10,57;1,013422819;36;Li_et_al_2014_PlosOne
+Manihot esculenta;Manihot_esculenta;Euphorbiaceae;Root_weight;Vegetative;Neo;Synthetic;0,16;0,27;1,6875;36;Li_et_al_2014_PlosOne
+Manihot esculenta;Manihot_esculenta;Euphorbiaceae;Aboveground_weight;Vegetative;Neo;Synthetic;0,21;0,42;2;36;Li_et_al_2014_PlosOne
+Manihot esculenta;Manihot_esculenta;Euphorbiaceae;Stem_length;Vegetative;Neo;Synthetic;387,3;271;0,699715982;37;Yin_et_al_2018_Genes&Genomics
+Manihot esculenta;Manihot_esculenta;Euphorbiaceae;Internode_length;Vegetative;Neo;Synthetic;7,92;6,66;0,840909091;37;Yin_et_al_2018_Genes&Genomics
+Manihot esculenta;Manihot_esculenta;Euphorbiaceae;Leaf_width;Vegetative;Neo;Synthetic;6,51;8,136666667;1,249871992;37;Yin_et_al_2018_Genes&Genomics
+Manihot esculenta;Manihot_esculenta;Euphorbiaceae;Leaf_length;Vegetative;Neo;Synthetic;24,66;18,72666667;0,759394431;37;Yin_et_al_2018_Genes&Genomics
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Stomata_length;Cellular - size;Neo;Synthetic;30,8;44;1,428571429;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Stomata_width;Cellular - size;Neo;Synthetic;22,8;27,8;1,219298246;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Plant_height;Vegetative;Neo;Synthetic;74,4;70,7;0,950268817;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Stem_Diameter;Vegetative;Neo;Synthetic;3;3,7;1,233333333;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Leaf_length;Vegetative;Neo;Synthetic;5,5;6,2;1,127272727;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Leaf_width;Vegetative;Neo;Synthetic;2,7;3,8;1,407407407;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Inflorescence_diameter;Vegetative;Neo;Synthetic;14,8;21,8;1,472972973;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Ligulate_flower_number;Fitness;Neo;Synthetic;20;21,3;1,065;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Tubular_flower_number;Fitness;Neo;Synthetic;127,3;137,3;1,078554595;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Ligulate_flower_length;Floral;Neo;Synthetic;7,5;9,5;1,266666667;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Ligulate_flower_width;Floral;Neo;Synthetic;2,4;2,8;1,166666667;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Tubular_flower_length;Floral;Neo;Synthetic;5,4;6,1;1,12962963;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Tubular_flower_diameter;Floral;Neo;Synthetic;1;1,2;1,2;38;Liu_et_al_2011_Scientia_Horticulturae
+Dendranthema nankingense;Chrysanthemum_indicum;Asteraceae;Pollen_diameter;Floral;Neo;Synthetic;23,8;25,4;1,067226891;38;Liu_et_al_2011_Scientia_Horticulturae
+Paulownia tomentosa;Paulownia_tomentosa;Scrophulariaceae;Leaf_length;Vegetative;Neo;Synthetic;3,5;3,8;1,085714286;39;Yan_et_al_2017_Physiol_Mol_Biol_Plants
+Paulownia tomentosa;Paulownia_tomentosa;Scrophulariaceae;Leaf_width;Vegetative;Neo;Synthetic;3;3,5;1,166666667;39;Yan_et_al_2017_Physiol_Mol_Biol_Plants
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Leaf_length;Vegetative;Neo;Synthetic;29,91;66,47;2,222333668;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Leaf_width;Vegetative;Neo;Synthetic;35,89;74,27;2,069378657;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Petiole_length;Floral;Neo;Synthetic;31,57;70,76;2,241368388;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Petiole_width;Floral;Neo;Synthetic;0,68;1,17;1,720588235;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Flower_diameter;Floral;Neo;Synthetic;47,56;56,68;1,19175778;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Carpel_diameer;Floral;Neo;Synthetic;5,04;5,77;1,14484127;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Peduncle_length;Floral;Neo;Synthetic;100,51;154,91;1,541239678;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Penduncle_diameter;Floral;Neo;Synthetic;1,35;1,72;1,274074074;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Height;Vegetative;Neo;Synthetic;173,98;233,19;1,340326474;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Flower_diameter;Floral;Neo;Synthetic;50,43;64,45;1,278009122;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Carpel_diameer;Floral;Neo;Synthetic;3,9;4,69;1,202564103;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Peduncle_length;Floral;Neo;Synthetic;74,44;127,79;1,716684578;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Peduncle_diameter;Floral;Neo;Synthetic;1,19;1,87;1,571428571;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Anemone sylvestris;Anemone_sylvestris;Ranunculaceae;Height;Vegetative;Neo;Synthetic;113,21;190,37;1,681565233;40;Zahumenicka_et_al_2018_Plant_Cell_Tiss_Organ_Cult
+Capsicum annuum;Capsicum_annuum;Solanaceae;Height;Vegetative;Neo;Synthetic;65,7;83,35;1,268645358;41;Kulkarni_Borse_2010_Plant_Breeding
+Capsicum annuum;Capsicum_annuum;Solanaceae;Leaf_thickness;Vegetative;Neo;Synthetic;225,5;355,45;1,576274945;41;Kulkarni_Borse_2010_Plant_Breeding
+Capsicum annuum;Capsicum_annuum;Solanaceae;Leaf_area;Vegetative;Neo;Synthetic;21,6;32,55;1,506944444;41;Kulkarni_Borse_2010_Plant_Breeding
+Capsicum annuum;Capsicum_annuum;Solanaceae;Root_length;Vegetative;Neo;Synthetic;26,8;37,6;1,402985075;41;Kulkarni_Borse_2010_Plant_Breeding
+Capsicum annuum;Capsicum_annuum;Solanaceae;Number_secondary_roots;Vegetative;Neo;Synthetic;3,2;6,25;1,953125;41;Kulkarni_Borse_2010_Plant_Breeding
+Capsicum annuum;Capsicum_annuum;Solanaceae;Dry_weight;Vegetative;Neo;Synthetic;23,4;42,85;1,831196581;41;Kulkarni_Borse_2010_Plant_Breeding
+Capsicum annuum;Capsicum_annuum;Solanaceae;Fruits_weight;Vegetative;Neo;Synthetic;253,5;296,1;1,168047337;41;Kulkarni_Borse_2010_Plant_Breeding
+Atriplex canescens;Atriplex_patula;Amaranthaceae;Leaf_size;Vegetative;Est;Natural;0,1;0,25;2,5;42;Hao_et_al_2012_New_Phytologist
+Beta vulgaris;Beta_vulgaris;Amaranthaceae;Shoot_fresh_weight;Vegetative;Neo;Natural;600;700;1,166666667;43;Wu_et_al_2019_Acta_Physiolagiae_Plantae
+Beta vulgaris;Beta_vulgaris;Amaranthaceae;Shoot_dry_weight;Vegetative;Neo;Natural;80;85;1,0625;43;Wu_et_al_2019_Acta_Physiolagiae_Plantae
+Beta vulgaris;Beta_vulgaris;Amaranthaceae;Root_fresh_weight;Vegetative;Neo;Natural;115;125;1,086956522;43;Wu_et_al_2019_Acta_Physiolagiae_Plantae
+Beta vulgaris;Beta_vulgaris;Amaranthaceae;Root_dry_weight;Vegetative;Neo;Natural;15;13;0,866666667;43;Wu_et_al_2019_Acta_Physiolagiae_Plantae
+Brassica rapa;Brassica_rapa;Brassicacea;Length_root;Vegetative;Neo;Synthetic;5;4,6;0,92;44;Meng_et_al_2011_Agricultural_science_in_China
+Brassica rapa;Brassica_rapa;Brassicacea;Length_shoot;Vegetative;Neo;Synthetic;2,2;2,4;1,090909091;44;Meng_et_al_2011_Agricultural_science_in_China
+Brassica rapa;Brassica_rapa;Brassicacea;Biomass;Vegetative;Neo;Synthetic;0,55;0,8;1,454545455;44;Meng_et_al_2011_Agricultural_science_in_China
+Malus domestica;Malus_domestica;Rosaceae;Leaf_length;Vegetative;Neo;Synthetic;8,41;7,73;0,919143876;45;Xue_et_al_2015_Scientia_horticulturae
+Malus domestica;Malus_domestica;Rosaceae;Leaf_length;Vegetative;Neo;Synthetic;8,17;7,83;0,958384333;45;Xue_et_al_2015_Scientia_horticulturae
+Malus domestica;Malus_domestica;Rosaceae;Leaf_width;Vegetative;Neo;Synthetic;5,78;6,37;1,102076125;45;Xue_et_al_2015_Scientia_horticulturae
+Malus domestica;Malus_domestica;Rosaceae;Leaf_width;Vegetative;Neo;Synthetic;5,11;6,17;1,207436399;45;Xue_et_al_2015_Scientia_horticulturae
+Malus domestica;Malus_domestica;Rosaceae;Leaf_area;Vegetative;Neo;Synthetic;32,76;35,89;1,095543346;45;Xue_et_al_2015_Scientia_horticulturae
+Malus domestica;Malus_domestica;Rosaceae;Leaf_area;Vegetative;Neo;Synthetic;29,18;33,83;1,159355723;45;Xue_et_al_2015_Scientia_horticulturae
+Malus domestica;Malus_domestica;Rosaceae;Leaf_thickness;Vegetative;Neo;Synthetic;177,68;204,58;1,151395768;45;Xue_et_al_2015_Scientia_horticulturae
+Malus domestica;Malus_domestica;Rosaceae;Leaf_thickness;Vegetative;Neo;Synthetic;116,67;146,32;1,254135596;45;Xue_et_al_2015_Scientia_horticulturae
+Lycopersicon esculentum;Solanum_lycopersicum;Solanaceae;Dry_weight;Vegetative;Neo;Synthetic;2,5;2,5;1;46;Tal_Gardi_1976_Physiol_Plant
+Lycopersicon esculentum;Solanum_lycopersicum;Solanaceae;Stomata_density;Cellular - number;Neo;Synthetic;12,9;8,8;0,682170543;46;Tal_Gardi_1976_Physiol_Plant
+Lycopersicon esculentum;Solanum_lycopersicum;Solanaceae;Epidermis_cell_number;Cellular - number;Neo;Synthetic;38,5;24,4;0,633766234;46;Tal_Gardi_1976_Physiol_Plant
+Lycopersicon esculentum;Solanum_lycopersicum;Solanaceae;Stomata_diameter;Cellular - size;Neo;Synthetic;50,6;66,9;1,322134387;46;Tal_Gardi_1976_Physiol_Plant
+Lycopersicon esculentum;Solanum_lycopersicum;Solanaceae;Stomata_area;Cellular - size;Neo;Synthetic;61,2;77,1;1,259803922;46;Tal_Gardi_1976_Physiol_Plant
+Lycopersicon esculentum;Solanum_lycopersicum;Solanaceae;Guard_cell_area;Cellular - size;Neo;Synthetic;370;652;1,762162162;46;Tal_Gardi_1976_Physiol_Plant
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Stomata_size;Cellular - size;Neo;Natural;384;583;1,518229167;47;Mouhaya_et_al_2010_Functional_Plant_Biology
+Citrus deliciosa;Citrus_trifoliata;Rutaceae;Stomata_size;Cellular - size;Neo;Natural;295;540;1,830508475;47;Mouhaya_et_al_2010_Functional_Plant_Biology
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Stomata_density;Cellular - number;Neo;Natural;487;307;0,630390144;47;Mouhaya_et_al_2010_Functional_Plant_Biology
+Citrus deliciosa;Citrus_trifoliata;Rutaceae;Stomata_density;Cellular - number;Neo;Natural;395;290;0,734177215;47;Mouhaya_et_al_2010_Functional_Plant_Biology
+Poncirus trifoliata;Citrus_trifoliata;Rutaceae;Leaf_thickness;Vegetative;Neo;Natural;0,284;0,34;1,197183099;47;Mouhaya_et_al_2010_Functional_Plant_Biology
+Citrus deliciosa;Citrus_trifoliata;Rutaceae;Leaf_thickness;Vegetative;Neo;Natural;0,247;0,297;1,20242915;47;Mouhaya_et_al_2010_Functional_Plant_Biology
+Morus alba;Morus_alba;Moraceae;Height;Vegetative;Neo;Synthetic;6,58;7,81;1,186930091;48;Dai_et_al_2015_Int_Journal_Molecular_Science
+Morus alba;Morus_alba;Moraceae;Breast-height diameter;Vegetative;Neo;Synthetic;8,34;10,31;1,236211031;48;Dai_et_al_2015_Int_Journal_Molecular_Science
+Morus alba;Morus_alba;Moraceae;Leaf_area;Vegetative;Neo;Synthetic;70,89;99,28;1,400479616;48;Dai_et_al_2015_Int_Journal_Molecular_Science
+Morus alba;Morus_alba;Moraceae;Fruit_maturation_period;Phenological;Neo;Synthetic;54,21;53,47;0,986349382;48;Dai_et_al_2015_Int_Journal_Molecular_Science
+Morus alba;Morus_alba;Moraceae;Fruit_length;Vegetative;Neo;Synthetic;4,06;5,7;1,403940887;48;Dai_et_al_2015_Int_Journal_Molecular_Science
+Morus alba;Morus_alba;Moraceae;Fruit_diameter;Vegetative;Neo;Synthetic;1,43;2,22;1,552447552;48;Dai_et_al_2015_Int_Journal_Molecular_Science
+Morus alba;Morus_alba;Moraceae;Fruit_weight;Vegetative;Neo;Synthetic;5,05;8,57;1,697029703;48;Dai_et_al_2015_Int_Journal_Molecular_Science
+Themeda triandra;Schizachyrium_scoparium;Poaceae;Number_seed;Fitness;Est;Natural;1;1,16;1,16;49;Godfree_et_al_2017_Royal_society_open_science
+Themeda triandra;Schizachyrium_scoparium;Poaceae;Seed_weight;Vegetative;Est;Natural;1;1,27;1,27;49;Godfree_et_al_2017_Royal_society_open_science
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Total_biomass;Vegetative;Neo;Synthetic;74;55;0,743243243;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Total_biomass;Vegetative;Est;Natural;74;60;0,810810811;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Shoot_mass;Vegetative;Neo;Synthetic;32;42,5;1,328125;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Shoot_mass;Vegetative;Est;Natural;32;37,5;1,171875;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Root_mass;Vegetative;Neo;Synthetic;6;7;1,166666667;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Root_mass;Vegetative;Est;Natural;6;6,5;1,083333333;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Inflorescence_mass;Floral;Neo;Synthetic;25;13,5;0,54;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Inflorescence_mass;Floral;Est;Natural;25;19;0,76;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Root_bud_mass;Vegetative;Neo;Synthetic;40;42;1,05;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Root_bud_mass;Vegetative;Est;Natural;40;20;0,5;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Root_bud_number;Vegetative;Neo;Synthetic;27;53;1,962962963;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Root_bud_number;Vegetative;Est;Natural;27;24;0,888888889;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Individual_bud_mass;Vegetative;Neo;Synthetic;1,05;0,65;0,619047619;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Individual_bud_mass;Vegetative;Est;Natural;1,05;0,6;0,571428571;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Bud_height;Vegetative;Neo;Synthetic;4;4,25;1,0625;50;VanDrunen_Husband_2018_Annals_botant
+Chamerion angustifolium;Chamerion_angustifolium;Onagraceae;Bud_height;Vegetative;Est;Natural;4;3,625;0,90625;50;VanDrunen_Husband_2018_Annals_botant
+Malus domestica;Malus_domestica;Rosaceae;Height;Vegetative;Neo;Synthetic;208,2;155,2;0,74543708;51;Ma_et_al_2016_Scientific_reports
+Heuchera grossulariifolia;Heuchera_merriamii;Saxifragaceae;Pedoncule_length;Floral;Est;Natural;4,2;4,7;1,119047619;52;Segraves_Thompson_1999_Evolution
+Heuchera grossulariifolia;Heuchera_merriamii;Saxifragaceae;Total_floral_length;Floral;Est;Natural;5,1;6,5;1,274509804;52;Segraves_Thompson_1999_Evolution
+Heuchera grossulariifolia;Heuchera_merriamii;Saxifragaceae;Nectary_basal_length;Floral;Est;Natural;1,9;2,2;1,157894737;52;Segraves_Thompson_1999_Evolution
+Heuchera grossulariifolia;Heuchera_merriamii;Saxifragaceae;Corolla_length;Floral;Est;Natural;3;3,5;1,166666667;52;Segraves_Thompson_1999_Evolution
+Heuchera grossulariifolia;Heuchera_merriamii;Saxifragaceae;Petal_length;Floral;Est;Natural;2,3;3,3;1,434782609;52;Segraves_Thompson_1999_Evolution
+Heuchera grossulariifolia;Heuchera_merriamii;Saxifragaceae;Style_length;Floral;Est;Natural;1,9;2,1;1,105263158;52;Segraves_Thompson_1999_Evolution
+Heuchera grossulariifolia;Heuchera_merriamii;Saxifragaceae;Hypanthium_length;Floral;Est;Natural;1,9;2;1,052631579;52;Segraves_Thompson_1999_Evolution
+Heuchera grossulariifolia;Heuchera_merriamii;Saxifragaceae;Stigma_sepal_length;Floral;Est;Natural;1;1,05;1,05;52;Segraves_Thompson_1999_Evolution
+Solidago gigantea;Solidago_canadensis;Asteraceae;Biomass;Vegetative;Est;Natural;87,5;60,7;0,693714286;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Biomass;Vegetative;Est;Natural;26,8;41,9;1,563432836;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Biomass;Vegetative;Est;Natural;58,2;66,9;1,149484536;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Biomass;Vegetative;Est;Natural;46,6;52,2;1,120171674;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Shoot_Diameter;Vegetative;Est;Natural;11,2;8,8;0,785714286;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Shoot_Diameter;Vegetative;Est;Natural;6,8;7,5;1,102941176;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Shoot_lenght;Vegetative;Est;Natural;161;134;0,832298137;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Shoot_lenght;Vegetative;Est;Natural;57;89;1,561403509;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Shoot_lenght;Vegetative;Est;Natural;98;83;0,846938776;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Shoot_lenght;Vegetative;Est;Natural;74;70;0,945945946;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Leaf_area;Vegetative;Est;Natural;31,2;29,1;0,932692308;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Leaf_area;Vegetative;Est;Natural;19,3;24,2;1,25388601;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Leaf_mass;Vegetative;Est;Natural;234;245;1,047008547;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Leaf_mass;Vegetative;Est;Natural;123;191;1,552845528;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Shoot_number;Vegetative;Est;Natural;8;11;1,375;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Shoot_number;Vegetative;Est;Natural;12;10;0,833333333;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Rhizome_number;Vegetative;Est;Natural;10;16;1,6;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Rhizome_number;Vegetative;Est;Natural;12;19;1,583333333;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Rhizome_mass;Vegetative;Est;Natural;5;4,6;0,92;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Flowering_plants;Fitness;Est;Natural;0,97;0,82;0,845360825;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Flowering_plants;Fitness;Est;Natural;0,39;0,88;2,256410256;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Flowering_shoots;Fitness;Est;Natural;2,6;2,7;1,038461538;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Flowering_shoots;Fitness;Est;Natural;1,3;1,6;1,230769231;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Capitule_biomass;Floral;Est;Natural;11,2;5,1;0,455357143;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Capitule_biomass;Floral;Est;Natural;4,7;10,3;2,191489362;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Flowering_duration;Phenological;Est;Natural;50;51;1,02;53;Schlaepfer_et_al_2010_Oecologia
+Solidago gigantea;Solidago_canadensis;Asteraceae;Flowering_duration;Phenological;Est;Natural;29;48;1,655172414;53;Schlaepfer_et_al_2010_Oecologia
+Trifolium pratense;Trifolium_pratense;Fabaceae;Plant_length;Vegetative;Neo;Synthetic;1,3;1,35;1,038461538;54;Porturas_Segraves_2020_Am.J.Bot
+Trifolium pratense;Trifolium_pratense;Fabaceae;Banner_petal_length;Floral;Neo;Synthetic;0,51;0,6;1,176470588;54;Porturas_Segraves_2020_Am.J.Bot
+Trifolium pratense;Trifolium_pratense;Fabaceae;Banner_petal_width;Floral;Neo;Synthetic;0,25;0,3;1,2;54;Porturas_Segraves_2020_Am.J.Bot
+Trifolium pratense;Trifolium_pratense;Fabaceae;Floral_tube_width;Floral;Neo;Synthetic;0,1;0,11;1,1;54;Porturas_Segraves_2020_Am.J.Bot
+Trifolium pratense;Trifolium_pratense;Fabaceae;Wing_petal_length;Floral;Neo;Synthetic;0,4;0,43;1,075;54;Porturas_Segraves_2020_Am.J.Bot
+Trifolium pratense;Trifolium_pratense;Fabaceae;Herkogamy;Floral;Neo;Synthetic;0,045;0,05;1,111111111;54;Porturas_Segraves_2020_Am.J.Bot
+Arrhenatherum elatius;Arrhenatherum_elatius;Poaceae;Floral_biomass;Floral;Est;Natural;300;1000;3,333333333;55;Petit_et_al_1996_Can.J.Bot
+Arrhenatherum elatius;Arrhenatherum_elatius;Poaceae;Vegetative_biomass;Vegetative;Est;Natural;2500;8775;3,51;55;Petit_et_al_1996_Can.J.Bot
+Arrhenatherum elatius;Arrhenatherum_elatius;Poaceae;Leaf_surface_area;Vegetative;Est;Natural;150;490;3,266666667;55;Petit_et_al_1996_Can.J.Bot
+Arrhenatherum elatius;Arrhenatherum_elatius;Poaceae;Flowering date;Phenological;Est;Natural;89;82,5;0,926966292;55;Petit_et_al_1996_Can.J.Bot
+Arrhenatherum elatius;Arrhenatherum_elatius;Poaceae;Reproductive_output;Fitness;Est;Natural;0,1;0,1085;1,085;55;Petit_et_al_1996_Can.J.Bot
+Medicago sativa;Medicago_sativa;Fabaceae;shoot_biomass;Vegetative;Est;Natural;3;5,72;1,906666667;56;Forrester_et_al_2020_New_phytologist
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Panicle_number;Fitness;Neo;Synthetic;22,7;11;0,484581498;57;Bretagnolle_lumaret_1995_Euphytica
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Seed_weight;Vegetative;Neo;Synthetic;25,8;23,3;0,903100775;57;Bretagnolle_lumaret_1995_Euphytica
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Seed_number;Fitness;Neo;Synthetic;4577;2276;0,497268953;57;Bretagnolle_lumaret_1995_Euphytica
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Vegetative_biomass;Vegetative;Neo;Synthetic;15,9;16,3;1,025157233;57;Bretagnolle_lumaret_1995_Euphytica
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Panicle_emergence;Phenological;Neo;Synthetic;72,6;73;1,005509642;57;Bretagnolle_lumaret_1995_Euphytica
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Panicle_number;Fitness;Est;Natural;21;22,1;1,052380952;58;Bretagnolle_lumaret_2001_Int.Journal.Plant.Science
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Seed_weight;Vegetative;Est;Natural;0,45;0,709;1,575555556;58;Bretagnolle_lumaret_2001_Int.Journal.Plant.Science
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Seed_number;Fitness;Est;Natural;3959;2184;0,551654458;58;Bretagnolle_lumaret_2001_Int.Journal.Plant.Science
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Vegetative_biomass;Vegetative;Est;Natural;12,7;22,4;1,763779528;58;Bretagnolle_lumaret_2001_Int.Journal.Plant.Science
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Panicle_emergence;Phenological;Est;Natural;88,8;74,4;0,837837838;58;Bretagnolle_lumaret_2001_Int.Journal.Plant.Science
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicacea;Flowering_time;Phenological;Neo;Natural;39;43;1,102564103;59;Anneberg_Segraves_2020_Plant_Soil
+Arabidopsis thaliana;Arabidopsis_thaliana;Brassicacea;Composite_Fitness;Fitness;Neo;Natural;0,07;0,05;0,714285714;59;Anneberg_Segraves_2020_Plant_Soil
+Mimulus guttatus;Erythranthe_guttata;Scrophulariaceae;Calyx_length;Floral;Est;Natural;14,5;15;1,034482759;60;Simon-Porcar_et_al_2017_Botanical_Journal_of_Linnean_Society
+Mimulus guttatus;Erythranthe_guttata;Scrophulariaceae;Corolla_height;Floral;Est;Natural;25;31;1,24;60;Simon-Porcar_et_al_2017_Botanical_Journal_of_Linnean_Society
+Mimulus guttatus;Erythranthe_guttata;Scrophulariaceae;Corrolla_width;Floral;Est;Natural;31;37;1,193548387;60;Simon-Porcar_et_al_2017_Botanical_Journal_of_Linnean_Society
+Mimulus guttatus;Erythranthe_guttata;Scrophulariaceae;Floral_pedicel_lenght;Floral;Est;Natural;27;36;1,333333333;60;Simon-Porcar_et_al_2017_Botanical_Journal_of_Linnean_Society
+Mimulus guttatus;Erythranthe_guttata;Scrophulariaceae;Floral_tube_length;Floral;Est;Natural;23;25;1,086956522;60;Simon-Porcar_et_al_2017_Botanical_Journal_of_Linnean_Society
+Mimulus guttatus;Erythranthe_guttata;Scrophulariaceae;Leaf_length;Vegetative;Est;Natural;82;110;1,341463415;60;Simon-Porcar_et_al_2017_Botanical_Journal_of_Linnean_Society
+Mimulus guttatus;Erythranthe_guttata;Scrophulariaceae;Leaf_width;Vegetative;Est;Natural;44;59;1,340909091;60;Simon-Porcar_et_al_2017_Botanical_Journal_of_Linnean_Society
+Mimulus guttatus;Erythranthe_guttata;Scrophulariaceae;Stem_Diameter;Vegetative;Est;Natural;4,8;6,1;1,270833333;60;Simon-Porcar_et_al_2017_Botanical_Journal_of_Linnean_Society
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Tiller_number;Vegetative;Est;Natural;50,95;49,67;0,974877331;61;Maceira_et_al_1988
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Biomass;Vegetative;Est;Natural;14,69;14,78;1,006126617;61;Maceira_et_al_1988
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Biomass;Vegetative;Est;Natural;18,78;22,86;1,217252396;61;Maceira_et_al_1988
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Panicles_number;Fitness;Est;Natural;5,37;3,33;0,620111732;61;Maceira_et_al_1988
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Seed_number;Fitness;Est;Natural;1479;907,9;0,613860717;61;Maceira_et_al_1988
+Dactylis glomerata;Dactylis_glomerata;Poaceae;Panicles_number;Fitness;Est;Natural;8,59;9,79;1,139697322;61;Maceira_et_al_1988
+Knautia serpentinicola;Knautia_arvensis;Dipsacaceae;Aboveground_weight;Vegetative;Est;Natural;2,3;2,9;1,260869565;62;Certner_et_al_2019_New_Phytologist
+Knautia serpentinicola;Knautia_arvensis;Dipsacaceae;Leaf_pair_number;Vegetative;Est;Natural;12,2;11,1;0,909836066;62;Certner_et_al_2019_New_Phytologist
+Knautia serpentinicola;Knautia_arvensis;Dipsacaceae;Leaf_rosette_nulber;Vegetative;Est;Natural;2;1,9;0,95;62;Certner_et_al_2019_New_Phytologist
+Knautia serpentinicola;Knautia_arvensis;Dipsacaceae;Below_ground_biomass;Vegetative;Est;Natural;3,9;7,9;2,025641026;62;Certner_et_al_2019_New_Phytologist
+Knautia serpentinicola;Knautia_arvensis;Dipsacaceae;Total_biomass;Vegetative;Est;Natural;6,2;11;1,774193548;62;Certner_et_al_2019_New_Phytologist
+Vicia cracca;Vicia_cracca;Fabaceae;Germination_date;Phenological;Est;Natural;12,5;12;0,96;63;Pavlikova_et_al_2017_Plant_syst_evol
+Vicia cracca;Vicia_cracca;Fabaceae;Germination_date;Phenological;Neo;Synthetic;12,5;25;2;63;Pavlikova_et_al_2017_Plant_syst_evol
+Vicia cracca;Vicia_cracca;Fabaceae;Plant_height;Vegetative;Est;Natural;22;25;1,136363636;63;Pavlikova_et_al_2017_Plant_syst_evol
+Vicia cracca;Vicia_cracca;Fabaceae;Plant_height;Vegetative;Neo;Synthetic;22;24,5;1,113636364;63;Pavlikova_et_al_2017_Plant_syst_evol
+Vicia cracca;Vicia_cracca;Fabaceae;Seed_weight;Vegetative;Est;Natural;0,011875;0,01475;1,242105263;64;Munzbergova_2017_Annals_of_Botany
+Vicia cracca;Vicia_cracca;Fabaceae;Seed_weight;Vegetative;Neo;Synthetic;0,011875;0,015125;1,273684211;64;Munzbergova_2017_Annals_of_Botany
+Vicia cracca;Vicia_cracca;Fabaceae;Number_of_leaves;Vegetative;Est;Natural;11,375;9,625;0,846153846;64;Munzbergova_2017_Annals_of_Botany
+Vicia cracca;Vicia_cracca;Fabaceae;Number_of_leaves;Vegetative;Neo;Synthetic;11,375;11,875;1,043956044;64;Munzbergova_2017_Annals_of_Botany
+Vicia cracca;Vicia_cracca;Fabaceae;Number_of_pods;Vegetative;Est;Natural;58,5;36;0,615384615;64;Munzbergova_2017_Annals_of_Botany
+Vicia cracca;Vicia_cracca;Fabaceae;Number_of_pods;Vegetative;Neo;Synthetic;58,5;39;0,666666667;64;Munzbergova_2017_Annals_of_Botany
+Vicia cracca;Vicia_cracca;Fabaceae;Flowering_time;Phenological;Est;Natural;213,75;218,25;1,021052632;64;Munzbergova_2017_Annals_of_Botany
+Vicia cracca;Vicia_cracca;Fabaceae;Flowering_time;Phenological;Neo;Synthetic;213,75;216;1,010526316;64;Munzbergova_2017_Annals_of_Botany
