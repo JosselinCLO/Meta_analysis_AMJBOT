@@ -1,9 +1,9 @@
-##### Creator: XXXXX
+##### Creator: Josselin Clo
 ##### Data: 29.06.2021
 ##### Article title: Short- and long-term consequences of genome doubling: a meta-analysis
 
 # This script will allow you to reproduce the analyses from the paper
-# For questions, please contact XXXXXX
+# For questions, please contact josselin.clo@gmail.com
 
 # load the R package used for the analyses
 
